@@ -1,9 +1,4 @@
-### Hi there 👋 I'm Kainat Muhammad Web/WordPress Developer
-
-<!--
-**Kainat224/Kainat224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi 👋 I'm Kainat Muhammad Web/WordPress Developer
 
 - 🔭 I’m currently working on WordPress
 - 🌱 I’m currently learning WordPress Theme/Plugin Customization and Development
