@@ -1,4 +1,4 @@
-Hi 👋 I'm Kainat Muhammad Web/WordPress Developer
+Hi 👋 I'm Kainat Muhammad Full Stack WordPress Developer || Web Developer 
 
 - 🔭 I’m currently working on WordPress
 - 🌱 I’m currently learning WordPress Theme/Plugin Customization and Development
