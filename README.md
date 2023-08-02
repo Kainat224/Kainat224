@@ -1,8 +1,8 @@
-Hi 👋 I'm Kainat Muhammad Full Stack WordPress Developer || Web Developer 
+Hi 👋 I'm Kainat Muhammad Innovative Frontend Developer || ReactJs Developer || WordPress Expert || CMS
 
-- 🔭 I’m currently working on WordPress
-- 🌱 I’m currently learning WordPress Theme/Plugin Customization and Development
-- 👯 I’m looking to collaborate on Web/WordPress Development
-- 🤔 I’m looking for help with Web/WordPress Development 
-- 💬 Ask me about Anything related to web/WordPress Development 
+- 🔭 I’m currently working on Frontend Developer
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate with Frontend || ReactJS || Web3 || Metaverse Developers 
+- 🤔 I’m looking for help with new technologies
+- 💬 Ask me about Anything related to Frontend development || CMS  
 
