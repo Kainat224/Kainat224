@@ -1,8 +1,8 @@
-Hi 👋 I'm Kainat Muhammad Innovative Developer || ReactJs & NextJs Developer || CMS || WordPress Expert 
+Hi 👋 I'm Kainat Muhammad Innovative Software Engineer || ReactJs & NextJs Developer || MERN Stack Developer || WordPress Designer 
 
-- 🔭 I’m currently working as a Full-Stack Developer
-- 🌱 I’m currently learning Generative Ai
-- 👯 I’m looking to collaborate with ReactJS & NextJS || Web3 || Metaverse Developers || AI
+- 🔭 I’m currently working as a Full MERN Stack Developer
+- 🌱 I’m currently learning backend development & Generative Ai
+- 👯 I’m looking to collaborate with ReactJS & NextJS || MERN Stack developer || Web3 || Metaverse Developers || AI
 - 🤔 I’m looking for help with new technologies
-- 💬 Ask me about Anything related to ReactJS & NextJS || CMS || WordPress || Elementor
+- 💬 Ask me about Anything related to ReactJS & NextJS || MERN Stack development || CMS || WordPress || Elementor
 
